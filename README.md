@@ -24,7 +24,7 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 ## Installation
 
 1. Install directly from Google Play:  
-   [TaCo on Google Play](https://play.google.com/store/apps/details?id=de.dineabyte.taco) :contentReference[oaicite:2]{index=2}  
+   [TaCo on Google Play](https://play.google.com/store/apps/details?id=de.dineabyte.taco) 
 
    Install directly from Apple App Store:
    [TaCo on App Store](https://apps.apple.com/de/app/taco-tastyigniter-companion/id6742470816?l=en-GB)  

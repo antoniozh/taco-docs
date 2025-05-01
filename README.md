@@ -1,6 +1,6 @@
 # TaCo – TastyIgniter Companion
 
-TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners using TastyIgniter. It streamlines order management with real-time updates, push notifications, receipt printing, and more, all within a clean, intuitive interface. :contentReference[oaicite:0]{index=0}
+TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners using TastyIgniter. It streamlines order management with real-time updates, push notifications, receipt printing, and more, all within a clean, intuitive interface.
 
 ## Features
 
@@ -8,12 +8,12 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 - **Push Notifications** – Instant alerts for new orders and updates  
 - **EPSON Printing** – Print receipts effortlessly with supported EPSON printers  
 - **ESC/POS Printing** Print receipts using a raw TCP connection and ESC/POS data (experimental feature)
-- ***Sunmi Printing*** Print receipts using a handheld Sunmi printer (Tested devices: Sunmi V2 Pro, Sunmi V2s)
+- **Sunmi Printing** Print receipts using a handheld Sunmi printer (Tested devices: Sunmi V2 Pro, Sunmi V2s)
 - **Localization Support** – Available in multiple languages  
 - **Delivery Navigation** – Jump directly to customer addresses from the app  
 - **Tablet UI** – Optimized layout for tablets  
 - **Branding Options** – Customize with your logo, splash screen, and store listing  (contact me for more info)
-- **Easy Setup** – Plug-and-play installation with no complex configuration needed :contentReference[oaicite:1]{index=1}
+- **Easy Setup** – Plug-and-play installation with no complex configuration needed 
 
 ## Prerequisites
 
@@ -35,11 +35,9 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 2. Enter your TastyIgniter instance URL and credentials.  
 3. [Configure your printers](docs/printers.md)
 4. Set up [Webhooks for push notifications](docs/webhooks.md)
-:contentReference[oaicite:4]{index=4}  
 
 ## Usage
 
 1. Navigate to the the **Orders** drawer to see incoming orders.  
 2. Select an order to view details, update its status, or print a receipt.  
 3. Use the **Navigate** button to open your preferred map app for deliveries.
-:contentReference[oaicite:5]{index=5}

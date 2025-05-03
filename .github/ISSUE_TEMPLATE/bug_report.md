@@ -24,7 +24,7 @@ If applicable, add screenshots or log snippets.
 
 **Environment (please complete the following information):**
 
-- TastyIgniter version (v3, v4, relevant extension version)
+- TastyIgniter version: (v3, v4, relevant extension version)
 - OS: [e.g. iOS, Android]
 - Device: [e.g iPhone 14, Pixel 9 Pro]
 - Version and runtime date [e.g. 0.6.1, March 9 17:01 update (check the licenses page)]

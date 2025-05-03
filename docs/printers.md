@@ -2,6 +2,8 @@
 
 This guide walks you through adding and enabling a receipt printer in the TaCo (TastyIgniter Companion) app.
 
+ [Supported printers](../supported_printers.md)
+
 ---
 
 ## 1. Open the Printers Drawer

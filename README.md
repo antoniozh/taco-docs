@@ -24,7 +24,7 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 ## Installation
 
 1. Install directly from Google Play:  
-   [TaCo on Google Play](https://play.google.com/store/apps/details?id=de.dineabyte.taco) 
+   [TaCo on Google Play](https://play.google.com/store/apps/details?id=de.dineabyte.taco)
 
    Install directly from Apple App Store:
    [TaCo on App Store](https://apps.apple.com/de/app/taco-tastyigniter-companion/id6742470816?l=en-GB)  
@@ -33,7 +33,7 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 
 1. Launch **TaCo** 
 2. Enter your TastyIgniter instance URL and credentials.  
-3. [Configure your printers](docs/printers.md)
+3. [Configure your printers](docs/printers.md).  [Supported printers](supported_printers.md)
 4. Set up [Webhooks for push notifications](docs/webhooks.md)
 
 ## Usage

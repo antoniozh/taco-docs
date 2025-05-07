@@ -25,9 +25,11 @@ ESC/POS over IP
 
 All ESC/POS printers should be supported.
 
-#### Tested:
+#### Tested
+
 - All EPSON devices (but use EPSON mode for better compatibility)
 - Sewoo SLK-TS100
+- GP-C80250I PLUS
 - gilbertfl/escpos-netprinter ESC/POS Emulator (without QR code support)
 
 ## Sunmi handheld devices

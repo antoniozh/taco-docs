@@ -42,7 +42,7 @@ Integrated printer (no configuration needed)
 
 All Sunmi handheld Android devices should be supported.
 
-#### Tested:
+#### Tested
 
 - Sunmi V2S
 - Sunmi V2 Pro

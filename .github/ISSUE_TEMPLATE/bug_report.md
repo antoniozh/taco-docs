@@ -28,3 +28,7 @@ If applicable, add screenshots or log snippets.
 - OS: [e.g. iOS, Android]
 - Device: [e.g iPhone 14, Pixel 9 Pro]
 - Version and runtime date [e.g. 0.6.1, March 9 17:01 update (check the licenses page)]
+
+**Do you have any modified code in your instance which differs from a vanilla setup? Different order IDs, custom extensions, etc. In doubt, set up a new demo instance and reproduce it there:**
+
+- Yes / No

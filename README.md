@@ -41,3 +41,7 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 1. Navigate to the the **Orders** drawer to see incoming orders.  
 2. Select an order to view details, update its status, or print a receipt.  
 3. Use the **Navigate** button to open your preferred map app for deliveries.
+
+## Report Bugs
+
+If you encounter any bugs or issues, please [open an issue](https://github.com/antoniozh/taco-docs/issues) on GitHub with details about your device, operating system, and steps to reproduce the problem. Your feedback helps improve the app!

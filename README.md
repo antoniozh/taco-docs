@@ -13,11 +13,11 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 - **Delivery Navigation** – Jump directly to customer addresses from the app  
 - **Tablet UI** – Optimized layout for tablets  
 - **Branding Options** – Customize with your logo, splash screen, and store listing  (contact me for more info)
-- **Easy Setup** – Plug-and-play installation with no complex configuration needed 
+- **Easy Setup** – Plug-and-play installation with no complex configuration needed
 
 ## Prerequisites
 
-- Android device running Android 7.0 or higher 
+- Android device running Android 7.0 or higher
 - iOS device running iOS 15.0 or higher  
 - A running TastyIgniter server (with API access)
 
@@ -31,7 +31,7 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 
 ## Configuration
 
-1. Launch **TaCo** 
+1. Launch **TaCo**
 2. Enter your TastyIgniter instance URL and credentials.  
 3. [Configure your printers](docs/printers.md).  [Supported printers](supported_printers.md)
 4. Set up [Webhooks for push notifications](docs/webhooks.md)
@@ -44,4 +44,10 @@ TaCo (TastyIgniter Companion) is a mobile app designed for restaurant owners usi
 
 ## Report Bugs
 
-If you encounter any bugs or issues, please [open an issue](https://github.com/antoniozh/taco-docs/issues) on GitHub with details about your device, operating system, and steps to reproduce the problem. Your feedback helps improve the app!
+If you encounter any bugs or issues, please check the [common issues page](docs/common_issues.md) and if you still have issues, [open an issue](https://github.com/antoniozh/taco-docs/issues) on GitHub with details about your device, operating system, and steps to reproduce the problem. Your feedback helps improve the app!
+
+## Status of notification server
+
+[Click here to check the status of the notification/license server.](https://monitor.dineabyte.de/status/taco)
+
+> **Note:** If the license server is temporarily unavailable, your device license will remain valid for up to three days. This grace period ensures uninterrupted access to notifications and app features even during server outages.

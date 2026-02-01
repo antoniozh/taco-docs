@@ -5,7 +5,8 @@ Under this page, some common issues will be listed. Some are fixable by the user
 ## Cannot log in to TastyIgniter server
 
 - Is the login username correct? (For v3, enter username, for v4, enter email address)
-- Is the API extension installed?
+- Is the API extension installed and updated to the newest version?
+- Does the logged-in user have the correct permissions and locations assigned to list and retrieve the orders?
 
 ## Pending orders not loading
 
